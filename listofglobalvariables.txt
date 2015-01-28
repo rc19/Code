@@ -1,0 +1,9 @@
+list of global variables
+motor[4];
+axisPID[3]
+rcCommand(4);
+ROLL
+PITCH
+YAW
+YAW_DIRECTION
+NUMBER_MOTOR
