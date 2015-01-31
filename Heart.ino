@@ -6,8 +6,8 @@
   #include <PinChangeInt.h>
   #include <PinChangeIntConfig.h>
   //for servos//
-  #include<Servo.h>
-  #include<def.h>
+  #include <Servo.h>
+  #include <def.h>
   /////////////////
   //**variables for motors**//////////////
   int temp,Speed; 
